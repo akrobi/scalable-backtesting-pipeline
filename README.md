@@ -37,6 +37,6 @@ Set up pipeline
 - [Mohammed](https://github.com/MohammedEsamaldin)
 - [Nahom](https://github.com/nahomHmichael)
 - [Patrick](https://github.com/prubayita)
-- [Wangui](https://github.com/akrobi)
+- [Akrobi](https://github.com/akrobi)
 - [Yonas](https://github.com/yonamg)
 
